@@ -11,12 +11,12 @@ lang: en-US
 timezone: America/Indiana/Indianapolis
 
 # --------------------------
-title: Write-ups                          # the main title
+title: theic3                        
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Where I post my write-ups and notes  
 
 description: >-                        # used by seo meta and the atom feed
-  My write-ups and work
+  Move forward..
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
