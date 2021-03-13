@@ -30,8 +30,7 @@ twitter:
   username: 1ceBRRg        
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: theice                  # it will shows as the copyright owner in Footer
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      
@@ -72,7 +71,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/theic3/theic3.github.io/moon.jpg
+avatar: https://cdn.jsdelivr.net/gh/theic3/theic3.github.io/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
