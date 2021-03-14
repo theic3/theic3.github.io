@@ -26,14 +26,10 @@ toc: false
 ```C
 typedef struct moron
 {
-		int qi;
-
+	int qi;
 	char sex;
-
 	char name[STR_LEN];
-
 	display[STR_LEN];
-
 }	person
 ```
 This is the user->qi `person *user = new_p();`
@@ -60,15 +56,10 @@ after filling user->name buffer Final payload: Junk (to fill user->name) + paylo
 ```C
 typedef struct moron
 {
-
 	int qi;
-
 	char sex;
-
 	char name[64];
-
 	display[64];
-
 }	person
 
 Person *user = new Moron;
